@@ -4,28 +4,28 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9ee47df4aaabbead4dce7f385e6bd7c4",
+    "content-hash": "9b2167d9ad33db59c16a619ac3deda42",
     "packages": [
         {
             "name": "automattic/jetpack-autoloader",
-            "version": "v2.11.21",
+            "version": "v2.11.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Automattic/jetpack-autoloader.git",
-                "reference": "3a01a4a4ac166eaa721438cc06daa3cca0d51a15"
+                "reference": "4198bea356038fcf73fcb32df73b08818abbf8f3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Automattic/jetpack-autoloader/zipball/3a01a4a4ac166eaa721438cc06daa3cca0d51a15",
-                "reference": "3a01a4a4ac166eaa721438cc06daa3cca0d51a15",
+                "url": "https://api.github.com/repos/Automattic/jetpack-autoloader/zipball/4198bea356038fcf73fcb32df73b08818abbf8f3",
+                "reference": "4198bea356038fcf73fcb32df73b08818abbf8f3",
                 "shasum": ""
             },
             "require": {
                 "composer-plugin-api": "^1.1 || ^2.0"
             },
             "require-dev": {
-                "automattic/jetpack-changelogger": "^3.3.4",
-                "yoast/phpunit-polyfills": "1.0.4"
+                "automattic/jetpack-changelogger": "^3.3.9",
+                "yoast/phpunit-polyfills": "1.1.0"
             },
             "type": "composer-plugin",
             "extra": {
@@ -61,9 +61,9 @@
                 "wordpress"
             ],
             "support": {
-                "source": "https://github.com/Automattic/jetpack-autoloader/tree/v2.11.21"
+                "source": "https://github.com/Automattic/jetpack-autoloader/tree/v2.11.23"
             },
-            "time": "2023-05-22T14:27:35+00:00"
+            "time": "2023-09-19T18:19:19+00:00"
         },
         {
             "name": "composer/installers",
