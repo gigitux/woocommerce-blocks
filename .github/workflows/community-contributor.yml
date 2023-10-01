@@ -21,7 +21,7 @@ jobs:
             pull-requests: write
             issues: write
         steps:
-            - uses: actions/checkout@v3
+            - uses: actions/checkout@v4
 
             - name: Setup Node.js
               uses: actions/setup-node@64ed1c7eab4cce3362f8c340dee64e5eaeef8f7c
